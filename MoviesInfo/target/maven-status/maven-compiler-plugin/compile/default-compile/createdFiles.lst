@@ -1,0 +1,3 @@
+io\microservices\movieInfo\models\Movie.class
+io\microservices\movieInfo\resources\MovieResources.class
+io\microservices\movieInfo\MovieInfoApplication.class

@@ -1,0 +1,4 @@
+io\microservices\models\Rating.class
+io\microservices\RatingDataApplication.class
+io\microservices\models\RatingList.class
+io\microservices\resources\RatingDataResources.class
